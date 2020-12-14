@@ -475,13 +475,24 @@
 										</a>
 									</li>
 									<li class="item swiper-slide">
-										<a class="slideitem-wrapper" href="http://52.221.23.4.com/">
+										<a class="slideitem-wrapper" href="#">
 											<div class="item-img">
 												<div class="img bg-img" data-image-src="img/items/ereserve.png"></div>
 											</div>
 											<div class="item-desc">
 												<h3 class="title">E-Reserve</h3>
 												<p>Online Reservation forms for Realty Transactions. Developer-Agent-Client API token based forms with Image Processing of forms through ImageMagick and signature feature through Signature Pad Js.</p>
+											</div>
+										</a>
+									</li>
+									<li class="item swiper-slide">
+										<a class="slideitem-wrapper" href="https://teamperosh.mmxico.com/">
+											<div class="item-img">
+												<div class="img bg-img" data-image-src="img/items/teamperosh.png"></div>
+											</div>
+											<div class="item-desc">
+												<h3 class="title">TeamPerosh</h3>
+												<p>Video Subscription site for Martial Arts. Made in Codeigniter.</p>
 											</div>
 										</a>
 									</li>
