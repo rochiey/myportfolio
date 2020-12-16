@@ -17,7 +17,7 @@
 	<title>Rochie Yamit | Fullstack Web Engineer"</title>
 	
 	<!-- Page Description Here -->
-	<meta name="description" content="A beautiful and creative portfolio template. It is mobile friend (responsive) and comes with smooth animations">
+	<meta name="description" content="Hired for long term contracts. Fullstack Web Engineer since 2018. Gamer. Developer. Passionately loves Computer Science at heart.">
 	
 	<!-- Disable screen scaling-->
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, user-scalable=0">
@@ -237,7 +237,7 @@
 								<!-- title and description -->
 								<div class="title-desc">
 									<h2 class="border">Myself</h2>
-									<p>Strong engineering profession with a Bachelor's Degree focused in Computer Science from University of Mindanao, Philippines. Extensive experience in Vagrant and Docker as project containers and Git as a version control. I also have experience in handling servers like Apache and Nginx, and accessing them via SSH CLI. Known AWS in Cloud Computing and GoDaddy in hosting websites. I follow Software Development Life Cycle and Agile Methodology.</p>
+									<p>Strong engineering profession with a Bachelor's Degree focused in Computer Science from University of Mindanao, Philippines. Extensive experience in Vagrant and Docker as project containers and Git as a version control. I also have experience in handling servers like Apache and Nginx on an Ubuntu environment, and accessing them via SSH. Known AWS and Digital Ocean in Cloud Computing and GoDaddy in hosting websites. I follow Software Development Life Cycle and Agile Methodology.</p>
 								</div>
 							</div>
 							<div class="w-img">
